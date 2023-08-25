@@ -19,4 +19,4 @@ In order to check the Checksum open Powershell and CD into the file path and run
 
 Check The Checksum to make sure you got the right file please.
 
-Checksum: 2B227D04703E9E0CBF36E3C2A2553E7D4981DF709EBEC92A17DC57F22F632CCC
+Checksum: `2B227D04703E9E0CBF36E3C2A2553E7D4981DF709EBEC92A17DC57F22F632CCC`
