@@ -1,6 +1,6 @@
 # WordScramble
 This script was made by therealogplayer on Discord
-If you have any questions do not try to contact me. This is a project for fun and I will not repsond if you have any problems. 
+If you have any questions do not attempt to contact me, this is a project for fun I will not repsond to any problems. 
 
 #Restrictions
 I added some restrictions so that you don't somehow odestory your computer lol.
