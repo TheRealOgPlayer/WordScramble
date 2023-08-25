@@ -6,7 +6,7 @@ If you have any questions do not attempt to contact me, this is a project for fu
 I added some restrictions so that you don't somehow odestory your computer lol.
 The restrictions are as follows:
 
-Bloacked Characters: { "(", ")",";","'","+","-","*","\n","/","||","{", "}","[","]" } \n
+Bloacked Characters: { "(", ")",";","'","+","-","*","\n","/","||","{", "}","[","]" } :
 Min Length: 2 Characters
 Max Lenght: 10 Characters
 
