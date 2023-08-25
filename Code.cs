@@ -61,7 +61,7 @@ namespace HelloWord
             Console.Beep(); //Beep
             Console.WriteLine("The Word I Started From Was: " + Word + "\n");
 
-            //Logic For Scrambaing the word
+            //Logic For Scrambaling the word
             do
             {
                 Thread.Sleep(1);
