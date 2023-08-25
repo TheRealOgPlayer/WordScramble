@@ -7,8 +7,8 @@ I added some restrictions so that you don't somehow odestory your computer lol.
 The restrictions are as follows:
 
 Bloacked Characters: `{ "(", ")",";","'","+","-","*","\n","/","||","{", "}","[","]" }` :
-Min Length: 2 Characters :
-Max Lenght: 10 Characters
+Min Length: `2` Characters :
+Max Lenght: `10` Characters
 
 
 #About
